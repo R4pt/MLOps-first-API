@@ -44,7 +44,7 @@ async def get_users(user_id: str):
         },
         "91":{
              "name": "juan",
-             "email": "juan@example.com"
+             "email": "juan@example.co"
             }
     }
     try:
